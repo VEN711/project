@@ -6,4 +6,4 @@ d = int(input("Write negative number"))
 name = input("Write your name")
 surname = input("Write your surname")
 print(c, d, name, surname)
-
+## Что то поменялось
