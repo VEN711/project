@@ -1,3 +1,2 @@
-# project
-first project
+*GeekBrains
 Задачи по урокам находятся в соответсвующих папках.
